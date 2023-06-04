@@ -1,10 +1,9 @@
-<br/>
-
-![image](https://github.com/souravkayal/MarkleTree/assets/6651731/5d281958-2ac5-455e-910d-05d7e46dd3e5)
-
-<br/>
-
 # MarkleTree
+
+<br/>
+![image](https://github.com/souravkayal/MarkleTree/assets/6651731/5d281958-2ac5-455e-910d-05d7e46dd3e5)
+<br/>
+
 A simple Merkle tree implementation using c#. <br/>
 
 A merkle tree is hash based tree invented by Ralph Merkle in 1979. It is also known as hash tree because the leaf node of tree holds the actual data where non leaf node holds hash of it's children node. It's a binary tree in nature and has wide usage in various fields of computer science and cryptography.
