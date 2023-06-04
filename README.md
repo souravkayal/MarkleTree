@@ -1,4 +1,4 @@
-# MarkleTree
+# Merkle Tree
 
 <br/>
 <img src='https://github.com/souravkayal/MarkleTree/assets/6651731/5d281958-2ac5-455e-910d-05d7e46dd3e5'/>
