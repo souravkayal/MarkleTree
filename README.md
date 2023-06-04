@@ -1,3 +1,8 @@
+
+![image](https://github.com/souravkayal/MarkleTree/assets/6651731/5d281958-2ac5-455e-910d-05d7e46dd3e5)
+
+<br/><br/>
+
 # MarkleTree
 A simple Merkle tree implementation using c#. <br/>
 
@@ -5,7 +10,8 @@ A merkle tree is hash based tree invented by Ralph Merkle in 1979. It is also kn
 
 # Few real use case of Merkle tree <br/>
 <b> Cryptocurrency </b> <br/><br/>
-Cryptocurrency hevily use Merkle tree to generate hash to a certain blocks in blockchain. Here is one implementation of Merkle tree in Neo blockchain - https://github.com/neo-project/neo/blob/master/src/Neo/Cryptography/MerkleTree.cs
+Cryptocurrency hevily use Merkle tree to generate hash to a certain blocks in blockchain. Here is one implementation of Merkle tree in Neo blockchain -
+https://github.com/neo-project/neo/blob/master/src/Neo/Cryptography/MerkleTree.cs
 
 <br/><br/>
 <b> Integrity verification </b><br/><br/>
