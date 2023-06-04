@@ -1,7 +1,8 @@
+<br/>
 
 ![image](https://github.com/souravkayal/MarkleTree/assets/6651731/5d281958-2ac5-455e-910d-05d7e46dd3e5)
 
-<br/><br/>
+<br/>
 
 # MarkleTree
 A simple Merkle tree implementation using c#. <br/>
@@ -10,7 +11,7 @@ A merkle tree is hash based tree invented by Ralph Merkle in 1979. It is also kn
 
 # Few real use case of Merkle tree <br/>
 <b> Cryptocurrency </b> <br/><br/>
-Cryptocurrency hevily use Merkle tree to generate hash to a certain blocks in blockchain. Here is one implementation of Merkle tree in Neo blockchain -
+Cryptocurrency hevily use Merkle tree to generate hash to a certain blocks in blockchain. Here is one implementation of Merkle tree in Neo blockchain - <br/>
 https://github.com/neo-project/neo/blob/master/src/Neo/Cryptography/MerkleTree.cs
 
 <br/><br/>
@@ -18,7 +19,7 @@ https://github.com/neo-project/neo/blob/master/src/Neo/Cryptography/MerkleTree.c
 Merkle trees provide a way to efficiently verify the integrity of data by comparing hash values. By comparing only a few hash values at the top of the tree (root), one can determine if the entire dataset is consistent and unchanged.
 
 <br/><br/>
-<b> In Git </b> <br/><br/>
+<b> To find difference in Git </b> <br/><br/>
 Git uses merkle tree to detect and identify the differences. The concept of finding difference can be follow here - https://www.youtube.com/watch?v=P6jD966jzlk
 
 # How to use !
@@ -43,6 +44,8 @@ public static void Main(String[]args)
 }
 
 ```        
+<b> Output </b> <br/>
+
 ![image](https://github.com/souravkayal/MarkleTree/assets/6651731/446c4dec-bdbb-413c-acec-8a0947e532e1)
        
 
